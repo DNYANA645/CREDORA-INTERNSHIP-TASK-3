@@ -1,7 +1,7 @@
 
 # 🎯 Credora Data Science Internship - Task 03
 
-## 🔍 Project Title:
+## 🔍 TASK Title:
 **Customer Purchase Prediction using Decision Tree Classifier**
 
 ---
@@ -90,7 +90,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Open and run the notebook:
 - Google Colab: [Link to Colab Notebook](https://colab.research.google.com/drive/1u1B7n5iUt1ttBzL_EC0X-O53SPMez8V9#scrollTo=7MPGkrT9jG4-)
-- REPORT: [REPORT-TASK3](hGoogle Colab: [Link to Colab Notebook](https://colab.research.google.com/drive/1u1B7n5iUt1ttBzL_EC0X-O53SPMez8V9#scrollTo=7MPGkrT9jG4-)
+- REPORT: [REPORT-TASK3](https://colab.research.google.com/drive/1u1B7n5iUt1ttBzL_EC0X-O53SPMez8V9#scrollTo=7MPGkrT9jG4-)
 
 ---
 
